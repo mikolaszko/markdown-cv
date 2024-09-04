@@ -1,91 +1,72 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mikołaj Sodzawiczny
+Seniore Software Engineer, low-level enthusiast, computer nerd
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/mikolaszko">Github</a>
+<a href="https://www.sodzawiczny.com">My personal website</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Principal Software Engineer @ [WorldAnvil](https://www.worldanvil.com/) - world's biggest ttrpg platform
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Writing scalable, high-performance code for huge platforms. 
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Compilers, Language Design, Engines, Low-Level Networking
+
+### Languages
+
+Zig, OCaml, Elixir, Rust, C, C++, JS, Lua, PHP, GO, Java - but I consider myself language agnostic
+
+### Workflow
+
+PopOS with Neovim  
 
 
-## Education
+### Relevent Work
 
-`1654-1660`
-__The King's School, Grantham.__
+Principal Software Engineer   
+May 2023 - Now  
+[WorldAnvil](www.worldanvil.com)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+Projects:  
+Lead multiple projects from spec to completion  
+Wrote a bidirectional bbcode->blocknote (probably 1st in the world) parser for a WYSIWYG style text editor (this lead to a 58% more e2e user conversions)  
+The editor itself with my team  
+Lead a timeline project  
+Wrote a patch for a map engine  
+infra upgrades && maintenance
 
 
-## Awards
+Software Engineer   
+Aug 2023 - May 2023
+[SoftKraft](https://www.softkraft.co/)
 
-`2012`
-President, *Royal Society*, London, UK
+Implementing frontend & backend solutions for various clients  
+Worked closely with designers to implement user-oriented experiences  
+Infra work  
 
-Associate, *French Academy of Science*, Paris, France
+React Dev
+Mar 2022 - August 2022
+[Lambda]
 
+Prototyping a react application with a group of engineers  
+Working on pipelines (it was an early startup working on out-of-box projects solutions)  
 
+Software Engineer
+Jan 2022 - Mar 2022
 
-## Publications
+Short contract for an agency with academy for not-in-industry-yet devs (some course work etc.)
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Software Engineer
+2020 - Jan 2022
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Unfortunately my work in this time is heavily NDA'd and I am willing to share more in private  
 
 
