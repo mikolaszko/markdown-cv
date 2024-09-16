@@ -22,7 +22,7 @@ Compilers, Language Design, Engines, Low-Level Networking
 
 ### Languages
 
-Zig, OCaml, Elixir, Rust, C, C++, Lua, PHP, GO, Java, Python - but I consider myself language agnostic
+Zig, OCaml, Elixir,  Rust, C, C++, JS, Lua, PHP, GO, Java, Python - but I consider myself language agnostic
 
 ### Workflow
 
